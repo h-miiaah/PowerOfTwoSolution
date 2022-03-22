@@ -12,3 +12,7 @@
       }
       return isPowerOfTwo(n / 2);
 };
+
+/**
+ * 
+ */
