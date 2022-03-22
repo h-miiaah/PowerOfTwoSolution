@@ -14,5 +14,6 @@
 };
 
 /**
+ * If n is 0, then it’s not a power of 2.
  * 
  */
