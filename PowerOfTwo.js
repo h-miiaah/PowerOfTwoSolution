@@ -16,5 +16,6 @@
 /**
  * If n is 0, then it’s not a power of 2.
  * If n is 1, then it’s a power of 2.
+ * If n is not a power of 2, then it’s not a power of 2.
  * 
  */
