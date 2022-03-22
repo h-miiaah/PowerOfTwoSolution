@@ -10,4 +10,5 @@
       } else if (n % 2 !== 0) {
         return false;
       }
+      return isPowerOfTwo(n / 2);
 };
